@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bugxiong-x.github.io</id>
+    <title>BUGXIONG</title>
+    <updated>2023-07-18T06:29:53.081Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bugxiong-x.github.io"/>
+    <link rel="self" href="https://bugxiong-x.github.io/atom.xml"/>
+    <subtitle>Everyone is an embedded developer</subtitle>
+    <logo>https://bugxiong-x.github.io/images/avatar.png</logo>
+    <icon>https://bugxiong-x.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, BUGXIONG</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到BUGXIONG，I'm XRaccoon]]></title>
+        <id>https://bugxiong-x.github.io/post/huan-ying-lai-dao-bugxiongim-xraccoon/</id>
+        <link href="https://bugxiong-x.github.io/post/huan-ying-lai-dao-bugxiongim-xraccoon/">
+        </link>
+        <updated>2023-07-15T08:40:32.000Z</updated>
+    </entry>
+</feed>
